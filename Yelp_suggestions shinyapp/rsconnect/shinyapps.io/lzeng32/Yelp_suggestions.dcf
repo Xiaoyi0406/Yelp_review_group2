@@ -1,0 +1,12 @@
+name: Yelp_suggestions
+title: Yelp_suggestions
+username:
+account: lzeng32
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 831363
+bundleId: 1980376
+url: https://lzeng32.shinyapps.io/Yelp_suggestions/
+when: 1554173199.70615
+asMultiple: FALSE
+asStatic: FALSE
